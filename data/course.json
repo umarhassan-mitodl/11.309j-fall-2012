@@ -1,0 +1,56 @@
+{
+  "term": "Fall",
+  "year": "2012",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Fine Arts",
+      "Visual Arts",
+      "Photography"
+    ],
+    [
+      "Social Science",
+      "Urban Studies",
+      "Urban Planning"
+    ]
+  ],
+  "legacy_uid": "9b15fe75-039d-de73-c2e9-fe8162c8600c",
+  "instructors": {
+    "content": [
+      "d713582d-90f8-7193-25a2-44bdcc9fee64"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "cb6820fd-7e58-5e3e-471f-c7da64369639",
+    "website": "11-309j-sensing-place-photography-as-inquiry-fall-2012"
+  },
+  "course_title": "Sensing Place: Photography as Inquiry",
+  "hide_download": false,
+  "course_description": "This course explores photography as a disciplined way of seeing or investigating urban landscapes, and expressing ideas. Readings, observations, and photographs form the basis of discussions on light, detail, place, poetics, narrative, and how photography can inform design and planning.\n\nThe current version of the class website for the course can be found here: [Sensing Place: Photography as Inquiry](https://web.mit.edu/landphoto/index.html).",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.215J",
+  "primary_course_number": "11.309J",
+  "course_image_thumbnail": {
+    "content": "48ac86a4-e060-28e9-9519-76b6ba45612a",
+    "website": "11-309j-sensing-place-photography-as-inquiry-fall-2012"
+  },
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "7c7b5ef2-c16f-4328-9ebe-4d27fb43d8c5",
+  "site_short_id": "11.309j-fall-2012",
+  "site_url_path": "courses/11-309j-sensing-place-photography-as-inquiry-fall-2012",
+  "title": "Course Metadata"
+}
