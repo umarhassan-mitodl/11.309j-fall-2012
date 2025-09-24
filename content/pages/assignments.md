@@ -11,7 +11,7 @@ uid: e46795de-2574-8e5f-3c4f-331e3960d760
 ---
 All assignments are due at the time indicated. It is very important to keep up with the assignments, for they build on one another and form a basis for class discussion. 
 
-[Examples of student work](https://web.mit.edu/landphoto/projects.html?y=2012) are available through the class website from Fall 2012.
+{{% resource_link "34b4564e-e7e7-41ef-bd3e-2aef0135b442" "Examples of student work" %}} are available through the class website from Fall 2012.
 
 ## Site Investigation and Selection in the Boston Region (By End of Week 2)
 
@@ -41,7 +41,7 @@ Photograph your site with respect to qualities of light, especially aspects of l
 
 ### Significant Detail (Review During Class of Week 6)
 
-Telling details signify: black streaks streaming down a rocky, desert outcrop trace ephemeral waterfalls from rare rains, point to a refuge; a stone at the gateway to a forest sanctuary, polished by thousands of touches, reveals reverence. Great artists use detail tellingly. Hans Holbein's sketch of a marksman shows mainly his face, the one eye closed, the other sighting down the crossbow. The squinting, sighting eye is the darkest, most detailed part of the drawing; the rest is drawn lightly, roughly, as if out of focus. Good photographers are close observers; they choose what to frame, how, and what to place in sharpest focus in order to highlight significant detail. Dorothea Lange kept journals where she jotted the telling details she recorded in photographs: a country churchyard's acre, its bare soil swept with dogwood brooms, the parishioner's hand-made gloves (refer to [Daring to Look: Dorothea Lange's Photographs and Reports from the Field](http://daringtolook.com/wp/)). Details reveal important truths, an idea as relevant to the scientific study of landscape, to architecture and poetry, as it is to photography. Physical diagnosis, in medicine, in landscape, is the art of culling the significant from a welter of irrelevant detail.
+Telling details signify: black streaks streaming down a rocky, desert outcrop trace ephemeral waterfalls from rare rains, point to a refuge; a stone at the gateway to a forest sanctuary, polished by thousands of touches, reveals reverence. Great artists use detail tellingly. Hans Holbein's sketch of a marksman shows mainly his face, the one eye closed, the other sighting down the crossbow. The squinting, sighting eye is the darkest, most detailed part of the drawing; the rest is drawn lightly, roughly, as if out of focus. Good photographers are close observers; they choose what to frame, how, and what to place in sharpest focus in order to highlight significant detail. Dorothea Lange kept journals where she jotted the telling details she recorded in photographs: a country churchyard's acre, its bare soil swept with dogwood brooms, the parishioner's hand-made gloves (refer to {{% resource_link "138235f9-5ec3-4fbf-952f-ab376b4cad44" "Daring to Look: Dorothea Lange's Photographs and Reports from the Field" %}}). Details reveal important truths, an idea as relevant to the scientific study of landscape, to architecture and poetry, as it is to photography. Physical diagnosis, in medicine, in landscape, is the art of culling the significant from a welter of irrelevant detail.
 
 Photograph significant details of your site, details that are clues to your site's particular character and that embody or refer to larger stories.
 
