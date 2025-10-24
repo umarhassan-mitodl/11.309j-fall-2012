@@ -33,7 +33,7 @@
     "website": "11-309j-sensing-place-photography-as-inquiry-fall-2012"
   },
   "course_title": "Sensing Place: Photography as Inquiry",
-  "hide_download": true,
+  "hide_download": false,
   "course_description": "This course explores photography as a disciplined way of seeing or investigating urban landscapes, and expressing ideas. Readings, observations, and photographs form the basis of discussions on light, detail, place, poetics, narrative, and how photography can inform design and planning.\n\nThe current version of the class website for the course can be found here: [Sensing Place: Photography as Inquiry](https://web.mit.edu/landphoto/index.html).",
   "department_numbers": [
     "11",
@@ -45,7 +45,6 @@
     "content": "48ac86a4-e060-28e9-9519-76b6ba45612a",
     "website": "11-309j-sensing-place-photography-as-inquiry-fall-2012"
   },
-  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Videos",
     "Written Assignments with Examples"
