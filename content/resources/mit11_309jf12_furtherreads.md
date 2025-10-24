@@ -4,8 +4,6 @@ description: This file contains information regarding further readings.
 file: /courses/11-309j-sensing-place-photography-as-inquiry-fall-2012/0345168ea487222ad3ad1c430c573cc6_MIT11_309JF12_furtherreads.pdf
 file_size: 385317
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
