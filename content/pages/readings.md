@@ -18,7 +18,7 @@ One principal text is required for this course, and is referenced in the require
 
 Other required reading assignments often are taken from the following:
 
-\[S2\] = Spirn, Anne Whiston. [*The Eye is a Door: Photography and the Art of Visual Thinking*](http://www.theeyeisadoor.com/). (forthcoming)
+\[S2\] = Spirn, Anne Whiston. {{% resource_link "f0eaf56e-7c13-4d83-8493-0a59f1415014" "*The Eye is a Door: Photography and the Art of Visual Thinking*" %}}. (forthcoming)
 
 {{% resource_link "0345168e-a487-222a-d3ad-1c430c573cc6" "Further readings (PDF)" %}}, organized by topic, are also available, as well as a {{% resource_link "641438f6-297d-5f58-90a0-90096501651d" "recommended reading list (PDF)" %}} that includes additional references and serves as a general bibliography for the course.
 
@@ -162,7 +162,7 @@ Lange, Dorothea, and Paul S. Taylor. *American Exodus: A record of human erosion
 
 Smith, Eugene W., and Aileen M. Smith. *Minamata*. Holt, Rinehart, and Winston, 1975. ISBN: 9780030136368.
 
-Lyons, Nathan. *Notations in Passing*. MIT Press, 1974. ISBN: 9780262620284. \[Preview with [Google Books](http://books.google.com/books?id=8AWeMhXX3dwC&printsec=frontcover)\]
+Lyons, Nathan. *Notations in Passing*. MIT Press, 1974. ISBN: 9780262620284. \[Preview with {{% resource_link "208e9e88-0cec-4137-89f3-b01e55476df7" "Google Books" %}}\]
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 10
@@ -188,7 +188,7 @@ Storytelling: Words and Images I
 
 ### Required Readings
 
-Lange, Dorothea, and Pirkle Jones. "[Death of a Valley](http://vhc.smugmug.com/Berryessa-Valley/McKenzie-Family/3671954_nnhGhM/211501484_sfCTx8Q#!i=211501484&k=sfCTx8Q)." *Aperture* 8, no.3 (1960).
+Lange, Dorothea, and Pirkle Jones. "{{% resource_link "5cde9d65-59a6-44bd-ac15-49ddae97ac42" "Death of a Valley" %}}." *Aperture* 8, no.3 (1960).
 
 DeCarava, Roy, and Langston Hughes. *The Sweet Flypaper of Life*. Hill and Wang, 1967.
 
@@ -198,7 +198,7 @@ Horn, Roni. *Another Water: The River Thames, for Example*. Steidl, 2011. ISBN: 
 
 ### Required Lookings
 
-[11.309J photo essays and selected websites](https://web.mit.edu/landphoto/index.html)
+{{% resource_link "e34adaba-c03e-4f23-ab7b-1b6f0a5c65d6" "11.309J photo essays and selected websites" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 12
